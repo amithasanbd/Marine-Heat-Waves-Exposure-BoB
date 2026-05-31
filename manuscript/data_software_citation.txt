@@ -1,0 +1,10 @@
+Reference-list entries to add after DOI creation
+
+Data citation:
+Hasan, M. A., Das, M. K., Sowrav, S. F. F., Koly, F. A., Kabir, M. Z., Rahman, S. M. M., Hoque, M. S. A., & Haque, M. S. (2026). Processed data for “An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal: Stratification-Mediated Persistence and Compound Heat-Oxygen Risk” (Version 1.0) [Dataset]. Zenodo. https://doi.org/[DATA DOI]
+
+Software citation:
+Hasan, M. A., Das, M. K., Sowrav, S. F. F., Koly, F. A., Kabir, M. Z., Rahman, S. M. M., Hoque, M. S. A., & Haque, M. S. (2026). Code for “An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal: Stratification-Mediated Persistence and Compound Heat-Oxygen Risk” (Version 1.0) [Software]. Zenodo. https://doi.org/[SOFTWARE DOI]
+
+Repository URL:
+https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB
