@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Code for: An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal"
+message: "If you use this code, please cite it using the metadata from this file. Replace the placeholder DOI after creating the Zenodo software release for the GitHub repository."
+type: software
+authors:
+  - family-names: Hasan
+    given-names: Md. Amit
+  - family-names: Das
+    given-names: Mohan Kumar
+  - family-names: Sowrav
+    given-names: Sheikh Fahim Faysal
+  - family-names: Koly
+    given-names: Farjana Akther
+  - family-names: Kabir
+    given-names: Md. Zuhaib
+  - family-names: Rahman
+    given-names: S.M. Mustafizur
+  - family-names: Hoque
+    given-names: Muhammad Sajid Anam
+  - family-names: Haque
+    given-names: Maisha Salwoa
+repository-code: "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB"
+license: MIT
+version: "v1.0.0"
+date-released: "2026-06-01"
+doi: "10.5281/zenodo.xxxxxxx"

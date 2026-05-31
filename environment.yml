@@ -1,0 +1,31 @@
+name: Marine-Heat-Waves-Exposure-BoB
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - xarray
+  - netcdf4
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - cmocean
+  - gsw
+  - openpyxl
+  - jupyter
+  - notebook
+  - dask
+  - cftime
+  - geopandas
+  - shapely
+  - pyproj
+  - rasterio
+  - tqdm
+  - pip
+  - pip:
+      - marineHeatWaves
+      - pymannkendall

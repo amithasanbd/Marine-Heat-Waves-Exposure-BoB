@@ -1,0 +1,24 @@
+file,size_bytes,recommended_archive
+"data/processed/BoB_biogeochem_event_input_merged.csv",213584,Zenodo dataset
+"data/processed/BoB_Figure6_lag_correlation_statistics_refined.csv",32382,Zenodo dataset
+"data/processed/BoB_Figure7_phase_composite_statistics_refined.csv",5766,Zenodo dataset
+"data/processed/BoB_MHW_annual_basin_subbasin_metrics_refined.csv",12104,Zenodo dataset
+"data/processed/BoB_MHW_annual_summary_cleaned_1995_2025.csv",708,Zenodo dataset
+"data/processed/BoB_MHW_daily_mask_1995_2024.csv",22960,Zenodo dataset
+"data/processed/BoB_MHW_event_summary_cleaned_1995_2025.csv",11159,Zenodo dataset
+"data/processed/BoB_MHW_event_summary_enriched_1995_2025.xlsx",22071,Zenodo dataset
+"data/processed/BoB_MHW_gridcell_trends_refined.csv",24371,Zenodo dataset
+"data/processed/BoB_MHW_trend_summary_refined.csv",3911,Zenodo dataset
+"data/processed/BoB_upper_ocean_3day_metrics_FINAL.xlsx",247240,Zenodo dataset
+"data/processed/BoB_upper_ocean_annual_metrics_FINAL.xlsx",6780,Zenodo dataset
+"data/processed/BoB_upper_ocean_panelB_input_FINAL.xlsx",327705,Zenodo dataset
+"data/processed/BoB_upper_ocean_summary_metrics_FINAL.xlsx",5588,Zenodo dataset
+"data/processed/Teleconnection_summary_S5_recomputed.csv",10024,Zenodo dataset
+"data/figure_ready/Input BoB_MHW Tracker_Seasonal_1995_2025.xlsx",595423,Zenodo dataset
+"data/tables/Figure_S5_late_record_annual_metrics.csv",288,Zenodo dataset
+"data/tables/Figure_S5_late_record_event_gap_summary.csv",2589,Zenodo dataset
+"data/tables/Supplementary_Tables_S1_S6_BoB_MHW_1995_2025.xlsx",35737,Zenodo dataset
+"data/tables/Table_01,Input BoB_MHW Tracker_Seasonal_1995_2025.xlsx",595423,Zenodo dataset
+"data/tables/Table_02,MHWs ,NOAA SST, Category & event summary.xlsx",38191,Zenodo dataset
+"data/tables/Table_03,BoB_upper_ocean_persistence_outputs_FINAL.xlsx",575540,Zenodo dataset
+"data/tables/Table_04,BoB_biogeochem_event_composite_statistics.csv",10347,Zenodo dataset

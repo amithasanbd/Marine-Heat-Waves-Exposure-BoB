@@ -1,0 +1,52 @@
+{
+  "title": "Code for: An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal",
+  "upload_type": "software",
+  "description": "Python scripts, Jupyter/Google Colab notebooks, configuration files, documentation, and reproducibility workflow for the manuscript 'An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal: Stratification-Mediated Persistence and Compound Heat-Oxygen Risk'.",
+  "creators": [
+    {
+      "name": "Hasan, Md. Amit"
+    },
+    {
+      "name": "Das, Mohan Kumar"
+    },
+    {
+      "name": "Sowrav, Sheikh Fahim Faysal"
+    },
+    {
+      "name": "Koly, Farjana Akther"
+    },
+    {
+      "name": "Kabir, Md. Zuhaib"
+    },
+    {
+      "name": "Rahman, S.M. Mustafizur"
+    },
+    {
+      "name": "Hoque, Muhammad Sajid Anam"
+    },
+    {
+      "name": "Haque, Maisha Salwoa"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "marine heatwaves",
+    "Bay of Bengal",
+    "NOAA OISST",
+    "Copernicus Marine",
+    "upper-ocean stratification",
+    "dissolved oxygen",
+    "ENSO",
+    "Indian Ocean Dipole",
+    "climate teleconnections",
+    "Earth's Future"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
