@@ -98,7 +98,7 @@ This repository is prepared for the code/software component of the AGU Open Rese
 1. a Zenodo **software DOI** by archiving the GitHub release, and
 2. a separate Zenodo **dataset DOI** for processed data, figure-ready data, supplementary tables, and reproducibility outputs.
 
-After both DOI records are created, replace `[DATA DOI]` and `[[![DOI](https://zenodo.org/badge/1255141888.svg)](https://doi.org/10.5281/zenodo.20477464)]` placeholders in `manuscript/open_research_statement.txt`, `manuscript/data_software_citation.txt`, `CITATION.cff`, and this README.
+After both DOI records are created, replace `[https://doi.org/10.5281/zenodo.20477464]` and `[https://doi.org/10.5281/zenodo.20477464]` placeholders in `manuscript/open_research_statement.txt`, `manuscript/data_software_citation.txt`, `CITATION.cff`, and this README.
 
 ## Final release checklist
 - Repository is public.
