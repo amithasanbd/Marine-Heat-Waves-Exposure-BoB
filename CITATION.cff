@@ -3,24 +3,33 @@ title: "Code for: An Emerging Marine Heatwave Exposure Regime in the Bay of Beng
 message: "If you use this code, please cite it using the metadata from this file. Replace the placeholder DOI after creating the Zenodo software release for the GitHub repository."
 type: software
 authors:
-  - family-names: Hasan
-    given-names: Md. Amit
-  - family-names: Das
-    given-names: Mohan Kumar
-  - family-names: Sowrav
-    given-names: Sheikh Fahim Faysal
-  - family-names: Koly
-    given-names: Farjana Akther
-  - family-names: Kabir
-    given-names: Md. Zuhaib
-  - family-names: Rahman
-    given-names: S.M. Mustafizur
-  - family-names: Hoque
-    given-names: Muhammad Sajid Anam
-  - family-names: Haque
-    given-names: Maisha Salwoa
-repository-code: "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB"
-license: MIT
-version: "v1.0.0"
-date-released: "2026-06-01"
-doi: "https://doi.org/10.5281/zenodo.20477465"
+
+* family-names: Hasan
+  given-names: Md. Amit
+  orcid: "https://orcid.org/0000-0002-7296-1711"
+* family-names: Das
+  given-names: Mohan Kumar
+  orcid: "https://orcid.org/0000-0001-6506-7511"
+* family-names: Sowrav
+  given-names: Sheikh Fahim Faysal
+  orcid: "https://orcid.org/0000-0002-9879-697X"
+* family-names: Koly
+  given-names: Farjana Akther
+  orcid: "https://orcid.org/0009-0004-3052-3889"
+* family-names: Kabir
+  given-names: Md. Zuhaib
+  orcid: "https://orcid.org/0009-0005-9785-7063"
+* family-names: Rahman
+  given-names: S. M. Mustafizur
+  orcid: "https://orcid.org/0000-0001-9693-5529"
+* family-names: Hoque
+  given-names: Muhammad Sajid Anam
+  orcid: "https://orcid.org/0009-0007-3212-7814"
+* family-names: Haque
+  given-names: Maisha Salwoa
+  orcid: "https://orcid.org/0009-0007-5892-7887"
+  repository-code: "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB"
+  license: MIT
+  version: "v1.0.1"
+  date-released: "2026-06-01"
+  doi: "https://doi.org/10.5281/zenodo.20477465"
