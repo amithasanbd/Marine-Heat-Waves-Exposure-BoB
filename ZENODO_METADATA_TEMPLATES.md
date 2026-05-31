@@ -7,6 +7,7 @@ Title: Code for: An Emerging Marine Heatwave Exposure Regime in the Bay of Benga
 Version: v1.0.1  
 License: MIT License  
 Repository: https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB
+
 DOI: https://doi.org/10.5281/zenodo.20477464
 
 Creators:
@@ -31,6 +32,7 @@ Upload type: Dataset
 Title: Processed data for: An Emerging Marine Heatwave Exposure Regime in the Bay of Bengal  
 Version: v1.0.1  
 License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
 DOI: https://doi.org/10.5281/zenodo.20477464
 
 Description:
