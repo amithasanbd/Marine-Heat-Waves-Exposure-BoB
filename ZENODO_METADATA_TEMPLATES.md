@@ -7,6 +7,7 @@ Title: Code for: An Emerging Marine Heatwave Exposure Regime in the Bay of Benga
 Version: v1.0.0  
 License: MIT License  
 Repository: https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB
+DOI: https://doi.org/10.5281/zenodo.20477464
 
 Creators:
 1. Md. Amit Hasan
