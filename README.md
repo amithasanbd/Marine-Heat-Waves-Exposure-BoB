@@ -19,6 +19,7 @@ Bay of Bengal domain: **5–22°N, 80–100°E**, divided into northern, central
 - NOAA PSL Dipole Mode Index, 1995–2025.
 - Copernicus Marine physical product for temperature, salinity, and mixed-layer depth, 1995–2024.
 - Copernicus Marine biogeochemical product for nitrate, phosphate, silicate, chlorophyll-a, and dissolved oxygen, 2000–2025.
+- The primary marine heatwave climatology and local 90th-percentile threshold were constructed using 1995–2020 as the fixed baseline. Sensitivity tests were conducted using 1990–2020 and 1995–2025 baselines to evaluate climatology dependence.
 
 ## Recommended GitHub repository name
 `Marine-Heat-Waves-Exposure-BoB`
