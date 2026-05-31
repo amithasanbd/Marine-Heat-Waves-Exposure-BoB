@@ -1,0 +1,6 @@
+data_root: data
+output_root: outputs
+raw_data_note: "Store raw global data outside GitHub; use Zenodo or original provider repositories."
+processed_data_root: data/processed
+figure_ready_data_root: data/figure_ready
+tables_root: data/tables

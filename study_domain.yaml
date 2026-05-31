@@ -1,0 +1,16 @@
+domain:
+  name: Bay of Bengal
+  latitude_min: 5.0
+  latitude_max: 22.0
+  longitude_min: 80.0
+  longitude_max: 100.0
+subbasins:
+  northern_bob:
+    latitude_min: 16.0
+    latitude_max: 22.0
+  central_bob:
+    latitude_min: 10.0
+    latitude_max: 16.0
+  southern_bob:
+    latitude_min: 5.0
+    latitude_max: 10.0
