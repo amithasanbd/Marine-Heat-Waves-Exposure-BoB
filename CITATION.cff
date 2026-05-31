@@ -28,8 +28,8 @@ authors:
 * family-names: Haque
   given-names: Maisha Salwoa
   orcid: "https://orcid.org/0009-0007-5892-7887"
-  repository-code: "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB"
-  license: MIT
-  version: "v1.0.1"
-  date-released: "2026-06-01"
-  doi: "https://doi.org/10.5281/zenodo.20477465"
+repository-code: "https://github.com/amithasanbd/Marine-Heat-Waves-Exposure-BoB"
+license: MIT
+version: "v1.0.1"
+date-released: "2026-06-01"
+doi: "https://doi.org/10.5281/zenodo.20477465"
